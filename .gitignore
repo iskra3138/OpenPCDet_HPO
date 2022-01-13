@@ -2,13 +2,13 @@
 **build**
 **egg-info**
 **dist**
-data/
+#data/
 *.pyc
 venv/
 *.idea/
 *.so
-*.yaml
-*.sh
+#.yaml
+#.sh
 *.pth
 *.pkl
 *.zip
